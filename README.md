@@ -1,5 +1,3 @@
-# My OpenStack Learning Lab
-
 ## 프로젝트 목표
 
 Terraform을 사용하여 인프라 프로비저닝을 자동화하고, 쉘 스크립트를 통해 VM 내부에 Canonical의 MicroStack을 자동으로 설치 및 구성.
